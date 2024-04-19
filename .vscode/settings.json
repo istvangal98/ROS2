@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "test_project.sln"
+    "dotnet.defaultSolution": "ROS2.sln"
 }
